@@ -1,0 +1,8 @@
+name: turkish_cities_districts
+description: Turkish cities and districts provided as lists and maps.
+version: 1.0.0
+author: Figen Güngör <figengungor1@gmail.com>
+homepage: https://github.com/figengungor/turkish_cities_districts
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
